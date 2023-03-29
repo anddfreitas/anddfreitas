@@ -1,4 +1,4 @@
-### Olá!! 👋
+### Hi!! 👋
 
 - 📖 C / JS / PY / JAVA
 - 🤓 UFERSA Science and Technology Student
