@@ -1,9 +1,9 @@
 ### Olá!! 👋
 
-- 📖 Estudando C e JavaScript
-- 🤓 Discente UFERSA
-- 😄 Pronouns: ele/dele
-- 🎮 Apaixonado por jogos
+- 📖 C / JS / PY / JAVA
+- 🤓 UFERSA Science and Technology Student
+- 😄 Pronouns: he
+- 🎮 Gaming lover
 
 
 <div align="center">
