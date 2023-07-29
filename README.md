@@ -1,6 +1,6 @@
 ### Hi!! 👋
 
-- 📖 C / JS / PY / JAVA
+- 📖 C / PY / JAVA
 - 📖 UFERSA Science and Technology Student
 - 🎮 Gaming lover
 
